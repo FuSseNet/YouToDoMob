@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">YouToDo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="place_holder">Place Holder</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="todo">TODO</string>
+    <string name="delete">DELETE</string>
+    <string name="save">SAVE</string>
+</resources>
